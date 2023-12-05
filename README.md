@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Visitor Entry Monitoring System for M Kumarasmay College of Engineering! This innovative project aims to streamline and enhance the visitor entry process on our campus. With real-time notifications and approval workflows, we ensure a secure and efficient way to monitor and manage visitor access.
+Welcome to the Visitor Entry Monitoring System for Collge or School! This innovative project aims to streamline and enhance the visitor entry process on our campus. With real-time notifications and approval workflows, we ensure a secure and efficient way to monitor and manage visitor access.
 
 ## Technologies Used
 
