@@ -17,7 +17,7 @@ PHP is a server-side scripting language designed for web development. It is wide
 HTML (Hypertext Markup Language) is the standard markup language for creating web pages. It structures the content on the web.
 
 ### Bootstrap
-  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="50">
+  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="70">
   
 Bootstrap is a popular CSS framework that simplifies the development of responsive and visually appealing websites.
 
